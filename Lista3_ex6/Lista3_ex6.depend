@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1657660252 source:c:\users\alunos\desktop\lista3\lista3_ex6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
