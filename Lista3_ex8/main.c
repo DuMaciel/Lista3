@@ -12,8 +12,8 @@ int main()
 
     printf("Quem é mais novo\n\n");
 
-    for(int i=0;i<3;i++){
-    printf("Digite o nome: ");
+    for(int i=1;i<=10;i++){
+    printf("Digite o nome %d: ",i);
     scanf("%s",nome1);
     printf("Idade de %s: ",nome1);
     scanf("%d",&n1);

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1658006183 source:c:\users\eduma\onedrive\Área de trabalho\connect-algoritimos\lista3\lista3_ex14\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
